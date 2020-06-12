@@ -1,0 +1,10 @@
+{
+  "API": {
+    "CBSQA": {
+      "Host": "https://smrtinterface.hrb-ase-dev.net"
+    }
+  },
+  " SmrtApp": {
+    "Host": "https://smrtapi.hrb-ase-dev.net"
+  }
+}
