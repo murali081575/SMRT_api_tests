@@ -4,7 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Hari_demo.EndPoints
+namespace Smrt_api.EndPoints
 {
     [APIScope(name: "SmrtApp")]
     [Compatible(HttpAction.Get, endPoint: "/.auth/me")]

@@ -1,4 +1,4 @@
-﻿using Hari_demo.EndPoints;
+﻿using Smrt_api.EndPoints;
 using HRBlock.CTF;
 using HRBlock.CTF.API;
 using System;
@@ -6,7 +6,7 @@ using System.Collections.Generic;
 using System.Net;
 using System.Text;
 
-namespace Hari_demo.Tests
+namespace Smrt_api.Tests
 {
     public class SmrtAppAuthTokenSample
     {

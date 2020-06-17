@@ -1,7 +1,7 @@
 using System;
 using Xunit;
 
-namespace Hari_demo
+namespace Smrt_api
 {
     public class UnitTest1
     {

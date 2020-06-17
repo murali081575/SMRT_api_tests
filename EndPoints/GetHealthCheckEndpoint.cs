@@ -1,9 +1,6 @@
 ﻿using HRBlock.CTF.API;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
-namespace Hari_demo.EndPoints
+namespace Smrt_api.EndPoints
 {
     [APIScope("CBSQA")]
     [Compatible(HttpAction.Get, endPoint: "")]
