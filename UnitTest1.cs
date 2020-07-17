@@ -8,7 +8,7 @@ namespace Smrt_api
         [Fact]
         public void Test1()
         {
-
+            Console.Write("Unit Tests ");
         }
     }
 }
